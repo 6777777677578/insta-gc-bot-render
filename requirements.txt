@@ -1,0 +1,5 @@
+instagrapi==2.2.1
+python-telegram-bot[webhooks]==20.7
+Flask==3.0.3
+python-dotenv==1.0.0
+gunicorn==22.0.0
